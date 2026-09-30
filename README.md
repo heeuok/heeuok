@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">татар</h1>
-<p align="center"><strong>コード · 創造 · 自由</strong><br /><sub>Код · Творчество · Свобода</sub></p>
+<p align="center"><strong>コード · 創造 · 自由</strong><br /><sub>житомирские технологии</sub></p>
 
 <p align="center">
   <a href="https://github.com/heeuok?tab=repositories">Репозитории</a>
